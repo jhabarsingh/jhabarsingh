@@ -1,17 +1,13 @@
 ### Hi there, I'm Jhabar Singh  👋
 
-<!--
-**jhabarsingh/jhabarsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm an Aspiring Software Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-![Jhabar's github stats](https://github-readme-stats.vercel.app/api?username=jhabarsingh&show_icons=true&theme=radical)
--->
+- 🔭 I am currently working on : [DSAlgo Visualiser][currently]!
+- 🌱 I’m currently learning Graphql 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- 📙 Education: Pursuing BE in Computer Science And Engineering
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jhabarsingh's Spotify Playing" width="350" />](https://open.spotify.com/playlist/30IDpCLZK9S1ZpdnDbgAOd)
@@ -61,7 +57,7 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[currently]: https://github.com/jhabarsingh/DSALGO-Visualizer
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
