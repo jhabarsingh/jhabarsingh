@@ -57,7 +57,7 @@
 </details>
 
 [website]: https://jhabarsingh.github.io/portfolio/
-[currently]: https://github.com/jhabarsingh/DSALGO-Visualizer
+[currently]: https://github.com/jhabarsingh/DSALGO-VISUALIZER
 [twitter]: https://twitter.com/BhatiJhabar
 [instagram]: https://www.instagram.com/bhatijhabarsingh/
 [linkedin]: linkedin.com/in/jhabar-bhati-774969134/
