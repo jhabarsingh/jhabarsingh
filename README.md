@@ -3,7 +3,7 @@
 
 ## I'm an Aspiring Software Developer!!
 
-- 🔭 I am currently working on : [DSAlgo Visualiser][currently]!
+- 🔭 I am currently working on : [DSALGO VISUALIZER][currently]!
 - 🌱 I’m currently learning **Graphql** 📚
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 - 📙 Education: Pursuing **BE** in **Computer Science And Engineering**
