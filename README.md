@@ -4,7 +4,7 @@
 ## I'm an Aspiring Software Developer!!
 
 - 🔭 I am currently working on : [DSALGO VISUALIZER][currently]!
-- 🌱 I’m currently learning **Graphql** 📚
+- 🌱 I’m currently learning [**Graphql**](https://graphql.org/) 📚
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 - 📙 Education: Pursuing **BE** in **Computer Science And Engineering**
 
@@ -23,8 +23,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue" width="26px" src="https://cdn.auth0.com/blog/logos/vuejs-logo.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
--->
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -51,9 +50,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jhabarsingh&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?  username=jhabarsingh&show_icons=true&hide_border=true&theme=radical" />
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhabarsingh&layout=compact&theme=radical)](https://github.com/jhabarsingh/github-readme-stats) -->
 </details>
 
 [website]: https://jhabarsingh.github.io/portfolio/
