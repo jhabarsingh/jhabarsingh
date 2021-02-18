@@ -44,6 +44,7 @@
 [<img align="left" alt="jhabarsingh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jhabarsingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jhabarsingh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jhabarsingh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br/>
 <br/>
@@ -59,4 +60,4 @@
 [twitter]: https://twitter.com/BhatiJhabar
 [instagram]: https://www.instagram.com/bhatijhabarsingh/
 [linkedin]: https://www.linkedin.com/in/jhabar-bhati-774969134/
-
+[stackoverflow]: https://stackoverflow.com/users/10612407/jhabar-singh-bhati
