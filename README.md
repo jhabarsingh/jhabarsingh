@@ -52,7 +52,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jhabarsingh&show_icons=true&hide_border=true&theme=radical" />
+  <a href="https://github.com/jhabarsingh/CPP">
+    <img align="left" alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jhabarsingh&show_icons=true&hide_border=true&theme=radical" />
+  </a>
 </details>
 
 [website]: http://jhabarsinghbhati.me/
