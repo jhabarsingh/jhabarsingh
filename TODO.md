@@ -1,7 +1,1 @@
-1. [THENOTES](https://github.com/jhabarsingh/THENOTES)
-2. [SIMADIAN](https://github.com/jhabarsingh/SIMADIAN)
-3. [GET A TEAMMATE](https://github.com/jhabarsingh/GET-A-TEAMMATE)
-4. [SALT ANALYSIS](https://github.com/jhabarsingh/SALT-ANALYSIS)
-5. [AIR POLLUTION](https://github.com/jhabarsingh/AIR-QUALITY-CONTROL)
-6. [AUDIO BOOK GENERATOR](https://github.com/jhabarsingh/AUDIO-BOOK-GENERATOR)
-7. [LETS POLL](https://github.com/jhabarsingh/LETSPOLL)
+
