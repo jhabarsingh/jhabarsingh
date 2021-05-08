@@ -8,7 +8,9 @@
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 - 📙 Education: Pursuing **BE** in **Computer Science And Engineering**
 
-## Projects
+<br />
+
+<a href="https://postgresql.org"><img src="https://img.shields.io/badge/PROJECTS-💻 + 🧠-blue.svg" height="30px" /></a>
 * [DSALGO-VISUALIZER](https://github.com/jhabarsingh/DSALGO-VISUALIZER)
 * [DOCMED](https://github.com/jhabarsingh/DOCMED)
 * [CODECHEF-APP](https://github.com/jhabarsingh/CODECHEF-APP)
