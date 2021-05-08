@@ -10,7 +10,8 @@
 
 <br />
 
-<a href="https://postgresql.org"><img src="https://img.shields.io/badge/PROJECTS-💻 + 🧠-blue.svg" height="30px" /></a>
+<img src="https://img.shields.io/badge/PROJECTS-💻 + 🧠-blue.svg" height="30px" />
+
 * [DSALGO-VISUALIZER](https://github.com/jhabarsingh/DSALGO-VISUALIZER)
 * [DOCMED](https://github.com/jhabarsingh/DOCMED)
 * [CODECHEF-APP](https://github.com/jhabarsingh/CODECHEF-APP)
