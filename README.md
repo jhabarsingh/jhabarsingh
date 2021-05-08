@@ -53,6 +53,15 @@
 <br/>
 
 <details>
+  <summary>:zap: Languages I code</summary>
+  <br />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhabarsingh&layout=compact&hide=JupyterNotebook)](https://github.com/jhabarsingh)
+
+</details>
+
+
+<details>
   <summary>:zap: GitHub Stats</summary>
   <br />
   <a href="https://github.com/jhabarsingh/CPP">
