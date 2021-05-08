@@ -8,6 +8,15 @@
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 - 📙 Education: Pursuing **BE** in **Computer Science And Engineering**
 
+## Projects
+* [DSALGO-VISUALIZER](https://github.com/jhabarsingh/DSALGO-VISUALIZER)
+* [DOCMED](https://github.com/jhabarsingh/DOCMED)
+* [CODECHEF-APP](https://github.com/jhabarsingh/CODECHEF-APP)
+* [CODEFORCES-MARGDARSHAN](https://github.com/jhabarsingh/CODEFORCES-MARGDARSHAN)
+* [LETSPOLL](https://github.com/jhabarsingh/LETSPOLL)
+* [STARDUST](https://github.com/jhabarsingh/STAR-DUST)
+* [SIMADIAN](https://github.com/jhabarsingh/SIMADIAN)
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jhabarsingh's Spotify Playing" width="350" />](https://open.spotify.com/playlist/30IDpCLZK9S1ZpdnDbgAOd)
