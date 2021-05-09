@@ -10,7 +10,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/PROJECTS-💻 + 🧠-blue.svg" height="30px" />
+<img src="https://img.shields.io/badge/Projects-💻 + 🧠-blue.svg" height="25px" />
 
 * [DSALGO-VISUALIZER](https://github.com/jhabarsingh/DSALGO-VISUALIZER)
 * [DOCMED](https://github.com/jhabarsingh/DOCMED)
