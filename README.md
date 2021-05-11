@@ -19,6 +19,7 @@
 * [LETSPOLL](https://github.com/jhabarsingh/LETSPOLL)
 * [STARDUST](https://github.com/jhabarsingh/STAR-DUST)
 * [SIMADIAN](https://github.com/jhabarsingh/SIMADIAN)
+* [COTRACK](https://github.com/jhabarsingh/COTRACK)
 
 ### Spotify Playing 🎧
 
