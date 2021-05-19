@@ -19,7 +19,6 @@
 * [GRAPH-TESTCASE-VISUALIZER](https://github.com/jhabarsingh/GRAPH-TESTCASE-VISUALIZER)
 * [LETSPOLL](https://github.com/jhabarsingh/LETSPOLL)
 * [SIMADIAN](https://github.com/jhabarsingh/SIMADIAN)
-* [COTRACK](https://github.com/jhabarsingh/COTRACK)
 
 ### Spotify Playing 🎧
 
