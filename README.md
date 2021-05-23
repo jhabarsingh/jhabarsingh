@@ -20,6 +20,7 @@
 * [LETSPOLL](https://github.com/jhabarsingh/LETSPOLL)
 * [SIMADIAN](https://github.com/jhabarsingh/SIMADIAN)
 * [HATE SPEECH DETECTOR](https://github.com/jhabarsingh/HATE-SPEECH-DETECTION)
+* [STAR-BURST](https://github.com/jhabarsingh/STAR-BURST)
 
 ### Spotify Playing 🎧
 
