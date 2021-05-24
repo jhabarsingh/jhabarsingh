@@ -19,6 +19,7 @@
 * [GRAPH-TESTCASE-VISUALIZER](https://github.com/jhabarsingh/GRAPH-TESTCASE-VISUALIZER)
 * [LETSPOLL](https://github.com/jhabarsingh/LETSPOLL)
 * [SIMADIAN](https://github.com/jhabarsingh/SIMADIAN)
+* [MOVIE RECOMMENDER](https://github.com/jhabarsingh/MOVIE-RECOMMENDER)
 * [HATE SPEECH DETECTOR](https://github.com/jhabarsingh/HATE-SPEECH-DETECTION)
 * [STAR-BURST](https://github.com/jhabarsingh/STAR-BURST)
 
