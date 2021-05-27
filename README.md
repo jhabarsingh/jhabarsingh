@@ -1,5 +1,7 @@
 ### Hi there, I'm Jhabar Singh  👋
 
+![](https://komarev.com/ghpvc/?username=jhabarsingh&label=PROFILE+VIEWS)
+
 
 ## I'm an Aspiring Software Developer!!
 
@@ -10,7 +12,8 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Projects-💻 + 🧠-blue.svg" height="25px" />
+
+<img src="https://img.shields.io/badge/Projects-💻 + 🧠-blue.svg" height="20px" />
 
 * [DSALGO-VISUALIZER](https://github.com/jhabarsingh/DSALGO-VISUALIZER)
 * [DOCMED](https://github.com/jhabarsingh/DOCMED)
