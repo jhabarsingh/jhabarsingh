@@ -5,7 +5,7 @@
 
 ## I'm an Aspiring Software Developer!!
 
-- 🔭 I am currently working on : [SIMADIAN][currently]!
+- 🔭 I am currently working on : [DSALGO VISUALIZER][currently]!
 - 🌱 I’m currently learning [**Kubernetes**](https://kubernetes.io/) 📚
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 - 📙 Education: Pursuing **BE** in **Computer Science And Engineering**
@@ -88,7 +88,7 @@
 </details>
 
 [website]: http://jhabarsinghbhati.me/
-[currently]: https://github.com/jhabarsingh/SIMADIAN
+[currently]: https://github.com/jhabarsingh/DSALGO-VISUALIZER
 [twitter]: https://twitter.com/BhatiJhabar
 [instagram]: https://www.instagram.com/bhatijhabarsingh/
 [linkedin]: https://www.linkedin.com/in/jhabar-bhati-774969134/
