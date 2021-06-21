@@ -70,22 +70,16 @@
 <br/>
 <br/>
 
-<details>
-  <summary>:zap: Languages I code</summary>
   <br />
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhabarsingh&layout=compact&hide=JupyterNotebook)](https://github.com/jhabarsingh)
 
-</details>
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
   <br />
   <a href="https://github.com/jhabarsingh/CPP">
     <img align="left" alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhabarsingh&count_private=true&show_icons=true" />
   </a>
-</details>
 
 [website]: http://jhabarsinghbhati.me/
 [currently]: https://github.com/jhabarsingh/DSALGO-VISUALIZER
