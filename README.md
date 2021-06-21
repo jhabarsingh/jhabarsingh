@@ -13,15 +13,19 @@
 
 <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhabarsingh&layout=compact&hide=JupyterNotebook" />
-
-  <br />
+ 
  
  <div>
   <a href="https://github.com/jhabarsingh/CPP">
     <img alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhabarsingh&count_private=true&show_icons=true" />
   </a>
   </div>
+  
+  
+  <br />
+  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhabarsingh&layout=compact&hide=JupyterNotebook" />
+
 <br />
 
 <div>
