@@ -10,26 +10,26 @@
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 - 📙 Education: Pursuing **BE** in **Computer Science And Engineering**
 
+
 <br />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhabarsingh&layout=compact&hide=JupyterNotebook" />
 
-<img src="https://img.shields.io/badge/PROJECTS-💻 + 🧠-blue.svg" height="20px" />
+  <br />
+ 
+ <div>
+  <a href="https://github.com/jhabarsingh/CPP">
+    <img alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhabarsingh&count_private=true&show_icons=true" />
+  </a>
+  </div>
+<br />
 
-* [DSALGO-VISUALIZER](https://github.com/jhabarsingh/DSALGO-VISUALIZER)
-* [DOCMED](https://github.com/jhabarsingh/DOCMED)
-* [CODECHEF-APP](https://github.com/jhabarsingh/CODECHEF-APP)
-* [CODEFORCES-MARGDARSHAN](https://github.com/jhabarsingh/CODEFORCES-MARGDARSHAN)
-* [GRAPH-TESTCASE-VISUALIZER](https://github.com/jhabarsingh/GRAPH-TESTCASE-VISUALIZER)
-* [LETSPOLL](https://github.com/jhabarsingh/LETSPOLL)
-* [SIMADIAN](https://github.com/jhabarsingh/SIMADIAN)
-* [MOVIE RECOMMENDER](https://github.com/jhabarsingh/MOVIE-RECOMMENDER)
-* [HATE SPEECH DETECTOR](https://github.com/jhabarsingh/HATE-SPEECH-DETECTION)
-* [STAR-BURST](https://github.com/jhabarsingh/STAR-BURST)
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jhabarsingh's Spotify Playing" width="350" />](https://open.spotify.com/playlist/30IDpCLZK9S1ZpdnDbgAOd)
-
+<div>
+  <h3 align="left">Spotify Playing 🎧</h3>
+  <a href="https://open.spotify.com/playlist/30IDpCLZK9S1ZpdnDbgAOd">
+    <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"  alt="jhabarsingh's Spotify Playing" />
+  </a>
+</div>
 
 ### Languages and Tools:
 
@@ -70,16 +70,6 @@
 <br/>
 <br/>
 
-  <br />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhabarsingh&layout=compact&hide=JupyterNotebook)](https://github.com/jhabarsingh)
-
-
-
-  <br />
-  <a href="https://github.com/jhabarsingh/CPP">
-    <img align="left" alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhabarsingh&count_private=true&show_icons=true" />
-  </a>
 
 [website]: http://jhabarsinghbhati.me/
 [currently]: https://github.com/jhabarsingh/DSALGO-VISUALIZER
