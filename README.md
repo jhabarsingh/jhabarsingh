@@ -17,40 +17,39 @@
  
  <div>
   <a href="https://github.com/jhabarsingh/CPP">
-    <img alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhabarsingh&count_private=true&show_icons=true&theme=dark" />
+    <img alt="jhabarsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhabarsingh&count_private=true&show_icons=true&theme=light" />
   </a>
   </div>
   
   
   <br />
   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhabarsingh&layout=compact&hide=JupyterNotebook&theme=dark" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhabarsingh&layout=compact&hide=JupyterNotebook&theme=light" />
 
 <br />
 
 
 
-## Projects
-<br />
+### Projects
 
 <div align="left">
   <a href="https://github.com/jhabarsingh/DSALGO-VISUALIZER">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=DSALGO-VISUALIZER&theme=dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=DSALGO-VISUALIZER&theme=light" />
  </a>
  
  <a href="https://github.com/jhabarsingh/MOVIE-RECOMMENDER">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=MOVIE-RECOMMENDER&theme=dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=MOVIE-RECOMMENDER&theme=light" />
  </a>
 <div>
  
  
 <div align="left" style="display;flex">
   <a href="https://github.com/jhabarsingh/CODEFORCES-MARGDARSHAN">
-   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=CODEFORCES-MARGDARSHAN&theme=dark" />
+   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=CODEFORCES-MARGDARSHAN&theme=light" />
  </a>
  
  <a href="https://github.com/jhabarsingh/GRAPH-TESTCASE-VISUALIZER">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=GRAPH-TESTCASE-VISUALIZER&theme=dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=GRAPH-TESTCASE-VISUALIZER&theme=light" />
  </a>
 <div>
  
@@ -58,11 +57,11 @@
  
 <div align="left">
   <a href="https://github.com/jhabarsingh/CODECHEF-APP">
-   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=CODECHEF-APP&theme=dark" />
+   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=CODECHEF-APP&theme=light" />
  </a>
  
  <a href="https://github.com/jhabarsingh/DOCMED">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=DOCMED&theme=dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhabarsingh&repo=DOCMED&theme=light" />
  </a>
 <div>
  
