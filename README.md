@@ -68,12 +68,6 @@
 
 <br />
  
-<div>
-  <h3 align="left">Spotify Playing 🎧</h3>
-  <a href="https://open.spotify.com/playlist/30IDpCLZK9S1ZpdnDbgAOd">
-    <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"  alt="jhabarsingh's Spotify Playing" />
-  </a>
-</div>
 
 
 ### Languages and Tools:
