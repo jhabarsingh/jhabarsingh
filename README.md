@@ -5,10 +5,8 @@
 
 ## I'm an Aspiring Software Developer!!
 
-- 🔭 I am currently working on : [DSALGO VISUALIZER][currently]!
-- 🌱 I’m currently learning [**Kubernetes**](https://kubernetes.io/) 📚
-- 🥅 2021 Goals: Contribute more to **Open Source projects**
-- 📙 Education: Pursuing **BE** in **Computer Science And Engineering**
+- 🔭 Currently working as an SDE 2 @ JP Morgan Chase.
+- 📙 Education: **BE** in **Computer Science And Engineering**
 
 
 <br />
