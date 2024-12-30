@@ -45,5 +45,5 @@
 [currently]: https://github.com/jhabarsingh/DSALGO-VISUALIZER
 [twitter]: https://twitter.com/BhatiJhabar
 [instagram]: https://www.instagram.com/bhatijhabarsingh/
-[linkedin]: https://www.linkedin.com/in/jhabar-bhati-774969134/
+[linkedin]: https://www.linkedin.com/in/jhabarsinghbhati/
 [stackoverflow]: https://stackoverflow.com/users/10612407/jhabar-singh-bhati
